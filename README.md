@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mksaroha
+- I have 3 years exp on .Net technology C#,Asp.Net Mvc,Sql-Server 
 - 👀 I’m interested in work on asp.net core
 - 🌱 I’m currently learning asp.net core 
